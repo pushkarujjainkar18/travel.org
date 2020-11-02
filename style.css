@@ -88,6 +88,11 @@ header {
   background-size: cover;
 }
 
+.uplist{
+  font-weight: bold;
+  border-bottom-style: solid blue;
+}
+
 .navbar-brand {
   font-weight: bold;
   margin-left: 35px;
